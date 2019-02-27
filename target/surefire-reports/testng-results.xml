@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="13451" started-at="2019-02-27T18:55:22Z" finished-at="2019-02-27T18:55:36Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="13451" started-at="2019-02-27T18:55:22Z" finished-at="2019-02-27T18:55:36Z">
+      <class name="org.andestech.learning.rfb19.g3.ChromeAppTest">
+        <test-method status="PASS" signature="initData()[pri:0, instance:org.andestech.learning.rfb19.g3.ChromeAppTest@82d64]" name="initData" is-config="true" duration-ms="19" started-at="2019-02-27T18:55:22Z" finished-at="2019-02-27T18:55:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initData -->
+        <test-method status="PASS" signature="testCaseChrome01()[pri:0, instance:org.andestech.learning.rfb19.g3.ChromeAppTest@82d64]" name="testCaseChrome01" duration-ms="4665" started-at="2019-02-27T18:55:22Z" finished-at="2019-02-27T18:55:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseChrome01 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.andestech.learning.rfb19.g3.ChromeAppTest@82d64]" name="tearDown" is-config="true" duration-ms="752" started-at="2019-02-27T18:55:27Z" finished-at="2019-02-27T18:55:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.andestech.learning.rfb19.g3.ChromeAppTest -->
+      <class name="org.andestech.learning.rfb19.g3.IEAppTest">
+        <test-method status="PASS" signature="initData()[pri:0, instance:org.andestech.learning.rfb19.g3.IEAppTest@d3bd8b]" name="initData" is-config="true" duration-ms="0" started-at="2019-02-27T18:55:34Z" finished-at="2019-02-27T18:55:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initData -->
+        <test-method status="PASS" signature="testCaseIE01()[pri:0, instance:org.andestech.learning.rfb19.g3.IEAppTest@d3bd8b]" name="testCaseIE01" duration-ms="1553" started-at="2019-02-27T18:55:34Z" finished-at="2019-02-27T18:55:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseIE01 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.andestech.learning.rfb19.g3.IEAppTest@d3bd8b]" name="tearDown" is-config="true" duration-ms="531" started-at="2019-02-27T18:55:35Z" finished-at="2019-02-27T18:55:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.andestech.learning.rfb19.g3.IEAppTest -->
+      <class name="org.andestech.learning.rfb19.g3.FirefoxAppTest">
+        <test-method status="PASS" signature="initData()[pri:0, instance:org.andestech.learning.rfb19.g3.FirefoxAppTest@1fd3711]" name="initData" is-config="true" duration-ms="1" started-at="2019-02-27T18:55:28Z" finished-at="2019-02-27T18:55:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initData -->
+        <test-method status="PASS" signature="testCaseFirefox01()[pri:0, instance:org.andestech.learning.rfb19.g3.FirefoxAppTest@1fd3711]" name="testCaseFirefox01" duration-ms="4803" started-at="2019-02-27T18:55:28Z" finished-at="2019-02-27T18:55:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseFirefox01 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.andestech.learning.rfb19.g3.FirefoxAppTest@1fd3711]" name="tearDown" is-config="true" duration-ms="1099" started-at="2019-02-27T18:55:32Z" finished-at="2019-02-27T18:55:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.andestech.learning.rfb19.g3.FirefoxAppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -15,7 +15,7 @@ public class ChromeAppTest
     @BeforeClass
     public void initData(){
     System.setProperty("webdriver.chrome.driver",
-            "E:\\drivers\\selenium\\chromedriver.exe");  // укажите свой каталог, где находится драйвер
+            "C:\\ProgramData\\Oracle\\Java\\javapath\\chromedriver.exe");  // укажите свой каталог, где находится драйвер
     System.out.println("+++ Class: " + this);
 
     }

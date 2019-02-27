@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
 
-<suite name="SeleniumTestNGSuite" >
+<suite name="SeleniumTestNGSuite" parallel="methods" thread-count="3">
 
     <test name="ChromeTest">
 
@@ -24,11 +24,18 @@
 
 
     <test name="IETest">
-        <parameter name="fname" value="src/test/resources/testdata2.txt" />
+        <parameter name="fname" value="src/test/resources/testdata3.txt" />
         <classes>
             <class name="org.andestech.learning.rfb19.g3.IEAppTest" />
         </classes>
     </test>
+
+    <test name="Test-class test" >
+
+
+
+</test>
+
 
 
 </suite>
