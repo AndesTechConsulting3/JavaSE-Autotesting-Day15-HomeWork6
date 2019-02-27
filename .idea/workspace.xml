@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83265422-6e31-4c9a-9b72-0cf892ae9dc1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/andestech/learning/rfb19/g3/ChromeAppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/andestech/learning/rfb19/g3/ChromeAppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -197,7 +193,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551307926311" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551308376786" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -220,7 +216,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.org.andestech.learning.rfb19.g3">
+  <component name="RunManager" selected="TestNG.FirefoxAppTest">
     <configuration name="ChromeAppTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaSE-Autotesting-Day15-HomeWork6" />
       <extension name="coverage">
@@ -305,10 +301,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.FirefoxAppTest" />
         <item itemvalue="TestNG.org.andestech.learning.rfb19.g3" />
         <item itemvalue="TestNG.IEAppTest" />
         <item itemvalue="TestNG.IEAppTest.testCaseIE01" />
-        <item itemvalue="TestNG.FirefoxAppTest" />
         <item itemvalue="TestNG.ChromeAppTest" />
       </list>
     </recent_temporary>
@@ -338,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1551252839187</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="homework">
+      <created>1551307976609</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551307976609</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -363,6 +366,9 @@
     <history-entry file="org_andestech_learning_rfb19_g3 - 2019.02.28 at 01h 49m 43s.xml">
       <configuration name="org.andestech.learning.rfb19.g3" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="FirefoxAppTest - 2019.02.28 at 01h 59m 20s.xml">
+      <configuration name="FirefoxAppTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1554" height="916" extended-state="6" />
@@ -378,13 +384,13 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7643909" visible="true" weight="0.32950193" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7643909" weight="0.32950193" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49933067" visible="true" weight="0.39974457" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.2356091" side_tool="true" visible="true" weight="0.32950193" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50066936" side_tool="true" visible="true" weight="0.39974457" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="right" id="Maven" visible="true" weight="0.3299866" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -400,7 +406,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/JavaSE-Autotesting-Day15-HomeWork6.iml">
