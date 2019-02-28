@@ -15,13 +15,13 @@ public class ChromeAppTest
     @BeforeClass
     public void initData(){
     System.setProperty("webdriver.chrome.driver",
-            "E:\\drivers\\selenium\\chromedriver.exe");  // укажите свой каталог, где находится драйвер
+            "C:\\SeleniumDrivers\\Chrome\\chromedriver_win32\\chromedriver.exe");  // укажите свой каталог, где находится драйвер
     System.out.println("+++ Class: " + this);
 
     }
 
     @Test
-    public void testCaseChrome01()
+    public void testCaseChrome()
     {
         wd = new ChromeDriver();
         wd.get("http://google.com");

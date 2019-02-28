@@ -1,34 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
-
-<suite name="SeleniumTestNGSuite" >
-
-    <test name="ChromeTest">
-
-        <parameter name="fname" value="src/test/resources/testdata1.txt" />
+<suite name="SeleniumTestNGSuite" parallel="classes" thread-count="3">
+    <test name="AllTests">
         <classes>
-
             <class name="org.andestech.learning.rfb19.g3.ChromeAppTest" />
-
-        </classes>
-    </test>
-
-
-    <test name="FirefoxTest">
-        <parameter name="fname" value="src/test/resources/testdata2.txt" />
-         <classes>
             <class name="org.andestech.learning.rfb19.g3.FirefoxAppTest" />
-        </classes>
-    </test>
-
-
-    <test name="IETest">
-        <parameter name="fname" value="src/test/resources/testdata2.txt" />
-        <classes>
             <class name="org.andestech.learning.rfb19.g3.IEAppTest" />
         </classes>
     </test>
-
-
 </suite>
