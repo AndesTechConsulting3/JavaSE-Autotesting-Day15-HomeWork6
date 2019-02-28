@@ -19,7 +19,7 @@ public class IEAppTest {
 
     }
 
-    @Test
+    @Test()
     public void testCaseChrome01()
     {
         wd = new InternetExplorerDriver();
