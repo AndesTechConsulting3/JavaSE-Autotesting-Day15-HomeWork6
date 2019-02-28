@@ -2,11 +2,10 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
 
-<suite name="SeleniumTestNGSuite" parallel="classes"  thread-count="3">
+<suite name="SeleniumTestNGSuite">
 
-    <test name="ChromeTest">
+    <test name="ChromeTest" parallel="classes">
         <classes>
-
             <class name="org.andestech.learning.rfb19.g3.ChromeAppTest" />
             <class name="org.andestech.learning.rfb19.g3.FirefoxAppTest" />
             <class name="org.andestech.learning.rfb19.g3.IEAppTest" />

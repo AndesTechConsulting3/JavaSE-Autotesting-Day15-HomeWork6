@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="83265422-6e31-4c9a-9b72-0cf892ae9dc1" name="Default Changelist" comment="homeWork">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/andestech/learning/rfb19/g3/IEAppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/andestech/learning/rfb19/g3/IEAppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/IEDriverServer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lib/IEDriverServer.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -63,7 +63,7 @@
         <entry file="file://$PROJECT_DIR$/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
+              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -422,19 +422,17 @@
       <option name="project" value="LOCAL" />
       <updated>1551334570184</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="homeWork">
+      <created>1551351780811</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1551351780811</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FirefoxAppTest - 2019.02.28 at 09h 10m 28s.xml">
-      <configuration name="FirefoxAppTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="FirefoxAppTest - 2019.02.28 at 09h 11m 59s.xml">
-      <configuration name="FirefoxAppTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="IEAppTest - 2019.02.28 at 09h 13m 23s.xml">
-      <configuration name="IEAppTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="IEAppTest - 2019.02.28 at 09h 14m 24s.xml">
       <configuration name="IEAppTest" configurationId="TestNG" />
     </history-entry>
@@ -454,6 +452,15 @@
       <configuration name="Unnamed" configurationId="TestNG" />
     </history-entry>
     <history-entry file="Unnamed - 2019.02.28 at 13h 56m 14s.xml">
+      <configuration name="Unnamed" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Unnamed - 2019.02.28 at 13h 59m 17s.xml">
+      <configuration name="Unnamed" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Unnamed - 2019.02.28 at 15h 21m 25s.xml">
+      <configuration name="Unnamed" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Unnamed - 2019.02.28 at 15h 25m 50s.xml">
       <configuration name="Unnamed" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -607,7 +614,7 @@
     <entry file="file://$PROJECT_DIR$/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
         </state>
       </provider>
     </entry>
