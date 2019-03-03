@@ -26,7 +26,7 @@
     <test name="IETest">
         <parameter name="fname" value="src/test/resources/testdata2.txt" />
         <classes>
-            <class name="org.andestech.learning.rfb19.g3.IEAppTest" />
+            <class name="org.andestech.learning.rfb19.g3.EdgeAppTest" />
         </classes>
     </test>
 
