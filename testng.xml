@@ -5,7 +5,6 @@
 <suite name="SeleniumTestNGSuite" parallel="methods" thread-count="3" >
 
     <test name="ChromeTest">
-        <parameter name="fname" value="src/test/resources/testdata1.txt" />
         <classes>
             <class name="org.andestech.learning.rfb19.g3.ChromeAppTest" />
             <class name="org.andestech.learning.rfb19.g3.FirefoxAppTest"/>
